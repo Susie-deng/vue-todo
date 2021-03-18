@@ -57,7 +57,7 @@ export default {
 }
 </script>
 
-<style lang="scss">
+<style lang="scss" >
 .todo-detail {
   position: fixed;
   display: flex;
