@@ -3,7 +3,7 @@
       <div class="avatar_face">
           <img src="../assets/face.png" alt="">
       </div>
-      <h2 class="avatar_name">Hi,喵大侠</h2>
+      <h2 class="avatar_name">Hi,喵大侠侠</h2>
       <p class="avatar_tips">
         又是美好的一天。<br />你今天有 {{ todayTasks.length }}条任务代办
       </p>
